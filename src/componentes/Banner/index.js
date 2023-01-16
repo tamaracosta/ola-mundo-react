@@ -2,7 +2,7 @@ import React from 'react';
 
 import styles from './Banner.module.css';
 import circuloColorido from 'assets/circulo_colorido.png';
-import minhaFoto from 'assets/minha_foto.png';
+import minhaFoto from 'assets/foto_tamara_capa.png';
 
 export default function Banner() {
   return (
@@ -13,7 +13,7 @@ export default function Banner() {
         </h1>
 
         <p className={styles.paragrafo}>
-          Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+          Boas vindas ao meu espaço pessoal! Eu sou Tamara Costa, Desenvolvedora de Software.
         </p>
       </div>
 

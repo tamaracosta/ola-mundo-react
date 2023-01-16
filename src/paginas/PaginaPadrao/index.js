@@ -5,11 +5,11 @@ import { Outlet } from 'react-router-dom'
 
 export default function PaginaPadrao() {
   return (
-    <>
-      <Banner />      
+    <main>
+      <Banner />
       <Outlet />
-    </>
-    
+    </main>
+
 
   )
 }
